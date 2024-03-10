@@ -9,7 +9,7 @@ No projeto é feito a criação do processo de ETL para mensagens no Telegram vi
 No coração do processo é utilizado como principais ferramentas:
 
 
-- Telagram como ferramenta de criação de dados:
+- Telegram como ferramenta de criação de dados:
   
   
 ![image](https://github.com/Wuisley/Telegram/assets/115996465/ce1f25b8-f16b-4334-9674-ed350dc15fc4)
